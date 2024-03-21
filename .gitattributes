@@ -1,2 +1,2 @@
-*.c linguistic-detectable=true
-*.cpp linguistic-detectable=true
+*.rb linguistic-language=c
+*.rb linguistic-language=c++
