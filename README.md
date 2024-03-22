@@ -1,7 +1,7 @@
 In this project, were used:
 
 1. Solar energy panel;
-2. 3d printing upon drawing in the AutoCAD;
+2. 3D printing through AutoCAD;
 3. Microcontroller ESP-WROOM-32 (Arduino IDE);
 4. Sensors to measure humidity, temperature and luminosity;
 5. Other components (resistors, step-up, TP4056, Arduino etc.);
